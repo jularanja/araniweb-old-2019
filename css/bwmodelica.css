@@ -1,0 +1,27 @@
+@font-face {
+  font-family: 'Bw Modelica';
+  src: url(../fonts/BwModelica-Light.woff);
+  src: url(../fonts/BwModelica-Light.eot);
+  font-weight: lighter;
+}
+
+@font-face {
+  font-family: 'Bw Modelica';
+  src: url(../fonts/BwModelica-Regular.woff);
+  src: url(../fonts/BwModelica-Regular.eot);
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: 'Bw Modelica';
+  src: url(../fonts/BwModelica-Bold.woff);
+  src: url(../fonts/BwModelica-Bold.eot);
+  font-weight: bold;
+}
+
+@font-face {
+    font-family: 'Bw Modelica';
+    src: url(../fonts/BwModelica-Black.woff);
+    src: url(../fonts/BwModelica-Black.eot);
+    font-weight: bolder;
+  }
